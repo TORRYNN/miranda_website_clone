@@ -6,9 +6,9 @@
 The MIRANDA web project is a visually rich and interactive portfolio website designed to showcase the work of a multidisciplinary freelancer specializing in digital experiences. The site features multiple sections, including an introduction, portfolio items, awards, and a contact section. It employs modern web technologies and libraries to create a smooth and engaging user experience.
 
 ## <img  width="100%" height=""  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="torrynn" /> 🚀 Features
-- Interactive elements 
-- Smooth animations and transitions
-- Clean and modular code structure
+- Interactive elements.
+- Smooth animations and transitions.
+- Clean and modular code structure.
 
 ## <img  width="100%" height=""  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="torrynn" /> 🛠️ Technologies Used
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) **HTML5**: For the basic structure of the website.
